@@ -1,12 +1,12 @@
 {
   "Id": "SpeechMod",
   "DisplayName": "SpeechMod for Pathfinder: Wrath of the Righteous",
-  "Author": "Osmodium",
+  "Author": "lvaskys",
   "ManagerVersion": "0.31.1",
   "Requirements": [],
   "AssemblyName": "PathfinderWOTRSpeechMod.dll",
   "EntryMethod": "SpeechMod.Main.Load",
   "GameVersion": "2.6.0n",
-  "HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/241",
-  "Version": "1.1.2"
+  "HomePage": "https://github.com/lvaskys/WotR-API-TextToSpeechMod",
+  "Version": "1.2.0"
 }
